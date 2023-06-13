@@ -64,7 +64,7 @@ module.exports = {
             //     }
             // }
 
-            
+
         ], // 修改模块的创建方式
     },
     // devServer: {
@@ -80,7 +80,6 @@ module.exports = {
     //             }
     //         }
     //     }
-
 
     // }
         devServer: {
